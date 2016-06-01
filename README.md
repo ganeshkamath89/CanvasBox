@@ -3,6 +3,9 @@ Labelling problem with minimal line overlap for N cities depicted by points in a
 
 Step 1: Create a test dataset comprising of list of cities each having latitude, longitude, name and description
 
+For example, i am using file from: http://www.downloadexcelfiles.com/wo_en/download-list-latitudelongitude-cities-india#.V07TVfl97IU
+
+
 Step 2: Draw the cities as points
 
 Step 3: Create a dummy layout function that randomly generates box shapes just outside the map (x, y, width, height)
